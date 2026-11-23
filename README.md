@@ -1,4 +1,4 @@
-# Bocados de la Chagra 🌿
+# Mikui de la Chagra 🌿
 
 Landing en 3D de nuestro producto para el Taller 8 – Región Amazónica (Ing. Software).
 Torticas de yuca y plátano maduro que se pueden **desarmar en 3D** para ver qué ingredientes llevan y por qué los escogimos.
@@ -46,18 +46,18 @@ Para probarlo en el celular en la misma red wifi, abre `http://IP-DE-TU-PC:5500`
 ```bash
 git init
 git add .
-git commit -m "Landing 3D Bocados de la Chagra"
+git commit -m "Landing 3D Mikui de la Chagra"
 git branch -M main
-git remote add origin https://github.com/USUARIO/bocados-de-la-chagra.git
+git remote add origin https://github.com/USUARIO/mikui-de-la-chagra.git
 git push -u origin main
 ```
 
 ## Desplegar en Vercel
 
 1. Entrar a [vercel.com](https://vercel.com) con la cuenta de GitHub.
-2. **Add New → Project** → importar el repo `bocados-de-la-chagra`.
+2. **Add New → Project** → importar el repo `mikui-de-la-chagra`.
 3. *Framework Preset:* **Other**. No hay que poner build command ni output directory.
-4. **Deploy**. Queda en algo como `https://bocados-de-la-chagra.vercel.app`.
+4. **Deploy**. Queda en algo como `https://mikui-de-la-chagra.vercel.app`.
 
 Cada `git push` a `main` vuelve a desplegar solo.
 

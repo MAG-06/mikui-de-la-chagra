@@ -1,5 +1,5 @@
 /* =========================================================
-   Bocados de la Chagra · Contenido de la página
+   Mikui de la Chagra · Contenido de la página
    Aquí se editan los textos sin tocar el 3D.
    Fuente: Taller 8 – Propuesta Región Amazónica
    ========================================================= */

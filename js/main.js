@@ -1,5 +1,5 @@
 /* =========================================================
-   Bocados de la Chagra · Landing 3D
+   Mikui de la Chagra · Landing 3D
    Three.js r160 minificado (incluido en /vendor, sin CDN)
    ========================================================= */
 import * as THREE from '../vendor/three/three.module.min.js';
